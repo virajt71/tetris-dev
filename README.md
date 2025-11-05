@@ -1,5 +1,7 @@
 # React Tetris Dev
 
+Forked https://github.com/N4si/tetris-game
+
 A modern, responsive Tetris game built with React, featuring smooth animations, touch controls, and a 3D visual theme option.
 
 ![Tetris Game](https://img.shields.io/badge/React-16.12.0-blue) ![Styled Components](https://img.shields.io/badge/Styled--Components-5.0.1-pink)
